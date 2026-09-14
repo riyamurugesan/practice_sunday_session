@@ -1,0 +1,13 @@
+#title {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+
+.navbar {
+    text-align: right;
+    padding: 10px 40px 0 0;
+}
+
+.navbar ul {
+    list-style: none;
+}
